@@ -1,0 +1,6 @@
+flask==2.3.2           # Example: Flask for web application framework
+requests==2.31.0       # Example: HTTP requests library
+gunicorn==20.1.0       # Example: WSGI HTTP server for deployment
+sqlalchemy==2.0.17     # Example: Database ORM
+python-dotenv==1.0.0   # Example: Environment variable management
+pytest==7.4.2          # Example: Testing framework
